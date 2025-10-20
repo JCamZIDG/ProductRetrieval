@@ -45,12 +45,12 @@ RetrievalBestProductsMatch/
 │ └─ utils.py # helpers (metrics, parsing)
 ├─ tests/ # tests unitarios (opcional)
 ├─ main.py # FastAPI app + endpoints
-```
+
 
 notebook.ipynb # notebook con todo el desarrollo/evaluación
 requirements.txt
 README.md
-
+```
 ## Requisitos
 
 El proyecto fue desarrollado con las dependencias listadas en `requirements.txt`. Para instalar:
