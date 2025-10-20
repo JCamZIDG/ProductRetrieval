@@ -3,3 +3,4 @@ WANDS/
 __pycache__/
 test.ipynb
 *.csv
+passages.jsonl
