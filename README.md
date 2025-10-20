@@ -19,8 +19,9 @@ Objetivo de la entrega: mejorar MAP@10 sobre el baseline y refactorizar el pipel
 
 ---
 
-## Estructura del repositorio
+## Estructura del repositori
 
+```
 RetrievalBestProductsMatch/
 ├─ app/
 │ ├─ init.py
@@ -44,7 +45,7 @@ RetrievalBestProductsMatch/
 │ └─ utils.py # helpers (metrics, parsing)
 ├─ tests/ # tests unitarios (opcional)
 ├─ main.py # FastAPI app + endpoints
-
+```
 
 notebook.ipynb # notebook con todo el desarrollo/evaluación
 requirements.txt
