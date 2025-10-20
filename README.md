@@ -19,7 +19,7 @@ Objetivo de la entrega: mejorar MAP@10 sobre el baseline y refactorizar el pipel
 
 ---
 
-## Estructura del repositori
+## Estructura del repositorio
 
 ```
 RetrievalBestProductsMatch/
